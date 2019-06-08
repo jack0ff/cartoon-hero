@@ -1,0 +1,21 @@
+h1{
+			color: lightblue; font-size: 90px; text-decoration: underline; font-family:Arial;
+		}
+		h2{
+			color: violet; font-size: 40px; text-decoration: line-through; font-family: Arial;
+		}
+		body{
+			background-color:black;
+		}
+		div{
+			background-color:darkblue;
+		}
+		.small{
+			font-size: 12px;
+		}
+		#first{
+			color: white; font-size: 120px;
+		}
+		h2 span{
+			font-style: italic;
+		}
