@@ -80,6 +80,8 @@ h2{
         .imgbox {
             display: grid;
             height: 100%;
+            margin:0;
+            padding:0;
         }
         .center-fit {
             max-width: 100%;
