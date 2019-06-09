@@ -71,6 +71,8 @@ h1{
 }
 h2{
 	text-decoration:underline;
+	margin: 20px;
+	margin-top: 20px;
 }
 
 .content{
